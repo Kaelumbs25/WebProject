@@ -45,7 +45,7 @@ main
 main p
 {
     color:#ffff;
-    font-size: 3em;
+    font-size: 2em;
 }
 body
 {
@@ -85,14 +85,14 @@ section
 {
     float: left;
     width: 40%;
-    max-width: 200px;
+    max-width: 800px;
     height: 100%;
 }
 .right
 {
     float: right;
     width: 40%;
-    max-width: 200px;
+    max-width: 800px;
     height: 100%;
 }
 .colDetail
