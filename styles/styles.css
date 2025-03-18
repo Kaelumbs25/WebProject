@@ -11,23 +11,17 @@ header h1
 {
     color: #ffc800;
 }
-header img
-{
-    border: 1px solid green;
-    padding: 0px;
-    background-color: white;
-}
 nav
 {
     background-color: grey;
     padding: 10px;
 }
-nav ul, footer ul
+nav ul
 {
     text-align: center;
     font-size: 1em;
 }
-nav ul li, footer ul li
+nav ul li
 {
 
     list-style-type: none;
@@ -42,16 +36,6 @@ nav ul li:hover
 {
     background-color: rgb(112,27,186);
 }
-nav ul li a
-{
-    color: white;
-    text-decoration: none;
-}
-footer ul li a
-{
-    color: white;
-    text-decoration: none;
-}
 main
 {
     padding: 0px;
@@ -62,11 +46,6 @@ main p
 {
     color:#ffff;
 }
-.center
-{
-    text-align: center;
-}
-
 body
 {
     color: white;
@@ -92,15 +71,6 @@ footer p
     color: rgb(0, 0, 0);
     
 }
-.product
-{
-    
-    border: 5px solid rgb(255, 255, 255);
-    
-    width: 100%;
-    
-    margin-bottom: 0em;
-}
 #active
 {
     border: 2px solid yellow;
@@ -124,29 +94,6 @@ section
     max-width: 400px;
     height: 100%;
 }
-#content
-{
-    width: 80%;
-    border: 1px solid yellow;
-    display: flow-root;
-    float: left;
-}
-aside
-{
-    border: 1px solid red;
-    width: 18.5%;
-    display: inline;
-    float: right;
-}
-aside ul li a
-{
-    color: blue;
-    text-decoration: none;
-}
-aside ul li
-{
-    list-style-type: none;
-}
 .colDetail
 {
     column-count: 3;
@@ -155,18 +102,6 @@ aside ul li
     padding: 2px;
 }
 
-.overflowSection
-{
-    overflow: auto;
-    height: 80%;
-    max-height: 200px;
-}
-.menuImg
-{
-    width: 20%;
-    text-align: center;
-    margin: auto;
-}
 
 
 
